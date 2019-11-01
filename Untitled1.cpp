@@ -37,7 +37,7 @@ int main(){
 				break;
 			}
 			case 3:{
-				//altas();
+				altas();
 				break;
 			}
 			case 4:{
